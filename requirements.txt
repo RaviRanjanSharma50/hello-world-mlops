@@ -1,0 +1,9 @@
+langchain 
+langchain_openai
+openai 
+faiss-cpu
+tiktoken
+fastapi
+uvicorn
+faiss-cpu
+langchain_community
